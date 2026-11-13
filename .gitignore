@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+.venv/
+
+# Pesos y datos locales de Ollama (no deben versionarse)
+ollama_data/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db

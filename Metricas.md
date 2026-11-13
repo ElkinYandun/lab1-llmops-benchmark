@@ -1,0 +1,11 @@
+## Resumen de métricas
+
+| Modelo | Prompt | TTFT (ms) | TPS | Tokens | Total (s) |
+|---|---|---:|---:|---:|---:|
+| q4_K_M | Corto (Definición) | 684.74 | 18.93 | 366 | 20.03 |
+| q4_K_M | Medio (Razonamiento) | 1303.35 | 17.42 | 831 | 49.01 |
+| q4_K_M | Largo (Generación de Código) | 1258.26 | 16.62 | 638 | 39.65 |
+| q8_0 | Corto (Definición) | 1147.75 | 12.45 | 339 | 28.38 |
+| q8_0 | Medio (Razonamiento) | 1689.14 | 11.76 | 444 | 39.45 |
+| q8_0 | Largo (Generación de Código) | 1641.18 | 8.55 | 677 | 80.83 |
+
